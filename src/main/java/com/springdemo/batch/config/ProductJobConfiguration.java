@@ -25,6 +25,8 @@ import org.springframework.core.io.ClassPathResource;
 
 import javax.persistence.EntityManagerFactory;
 
+
+// Spring Batch Configuration
 @Configuration
 @EnableBatchProcessing
 @Description("Product Job Configuration")
